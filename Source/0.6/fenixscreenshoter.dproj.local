@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2014/01/26 18:32:35.000.000,=C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/15 12:17:45.000.281,=C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/15 22:00:20.000.906,=C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2014/04/15 22:00:32.000.671,C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Unit1.dfm=C:\Documents and Settings\test\Escritorio\Mis Programas\Fenix ScreenShoter\fenix.dfm</Transaction>
+    <Transaction>2014/04/15 22:00:32.000.671,C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Unit1.pas=C:\Documents and Settings\test\Escritorio\Mis Programas\Fenix ScreenShoter\fenix.pas</Transaction>
+    <Transaction>2014/04/15 22:00:37.000.453,C:\Documents and Settings\test\Mis documentos\RAD Studio\Projects\Project1.dproj=C:\Documents and Settings\test\Escritorio\Mis Programas\Fenix ScreenShoter\fenixscreenshoter.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
